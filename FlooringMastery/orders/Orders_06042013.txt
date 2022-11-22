@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6,Ida Jones,CA,25.00,Wood,145.00,746.75,4.75,746.75,688.75,173.48,867.38

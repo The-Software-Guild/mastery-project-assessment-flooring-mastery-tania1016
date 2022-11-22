@@ -1,0 +1,3205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_3_DhUGqKEe2ar_e1TVpMSA">
+  <modelElement href="FlooringMastery.uml#_4hIToGqKEe2ar_e1TVpMSA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_44qp4GqKEe2ar_e1TVpMSA" sourceAnchor="148.0,0.0" targetAnchor="546.0,291.0" target="_48RXgGqKEe2ar_e1TVpMSA" source="_44sfEGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tbDMGqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5c4KMGqKEe2ar_e1TVpMSA" sourceY="-593" targetX="1819"/>
+    <stereotypes xmi:id="_44rQ8GqKEe2ar_e1TVpMSA" name="Reference">
+      <modelElement href="FlooringMastery.uml#_4tbDMmqKEe2ar_e1TVpMSA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_44rQ8WqKEe2ar_e1TVpMSA" text="">
+      <visualProperties xmi:id="_5dKeEGqKEe2ar_e1TVpMSA" position="-15.326617749144674,570.611676559779"/>
+    </nameVisual>
+    <sourceRole xmi:id="_44rQ8mqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tbDMWqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dJP8WqKEe2ar_e1TVpMSA" position="2.315911656172517,-85.93702887554537"/>
+      <visibility xmi:id="_44rQ82qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_44rQ9GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_44rQ9WqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="view" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4snx8GqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dLFIGqKEe2ar_e1TVpMSA" position="1804.0943410651432,584.2521703498917"/>
+      <stereotypes xmi:id="_Lt2AIGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l6bo0GqLEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4snx8WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_44rQ9mqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44rQ92qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_44r4AGqKEe2ar_e1TVpMSA" sourceAnchor="462.0,0.0" targetAnchor="299.0,268.0" target="_4830cGqKEe2ar_e1TVpMSA" source="_44sfEGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tbDM2qKEe2ar_e1TVpMSA"/>
+    <stereotypes xmi:id="_44r4AWqKEe2ar_e1TVpMSA" name="Reference">
+      <modelElement href="FlooringMastery.uml#_4tbqQGqKEe2ar_e1TVpMSA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_44r4AmqKEe2ar_e1TVpMSA" text="">
+      <visualProperties xmi:id="_5dM6UGqKEe2ar_e1TVpMSA" position="-14.136882791769608,-26.520667392829864"/>
+    </nameVisual>
+    <sourceRole xmi:id="_44r4A2qKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tbDNGqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dLsMGqKEe2ar_e1TVpMSA" position="2.283370121781843,-82.66192708436006"/>
+      <visibility xmi:id="_44r4BGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_44r4BWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_44r4BmqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="service" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4soZAGqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dNhYGqKEe2ar_e1TVpMSA" position="-22.9810353850973,-20.264406807363912"/>
+      <stereotypes xmi:id="_Lt1ZEGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l6deAGqLEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4soZAWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_44r4B2qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44r4CGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_45dUEGqKEe2ar_e1TVpMSA" sourceAnchor="282.0,0.0" targetAnchor="351.0,492.0" target="_45jasGqKEe2ar_e1TVpMSA" source="_48RXgGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tcRUGqKEe2ar_e1TVpMSA"/>
+    <stereotypes xmi:id="_45hlgmqKEe2ar_e1TVpMSA" name="Reference">
+      <modelElement href="FlooringMastery.uml#_4tcRUmqKEe2ar_e1TVpMSA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_45g-cGqKEe2ar_e1TVpMSA" text="">
+      <visualProperties xmi:id="_5dU2IGqKEe2ar_e1TVpMSA" position="-12.848168734956744,10.86504587419924"/>
+    </nameVisual>
+    <sourceRole xmi:id="_45hlgGqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tcRUWqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dToAGqKEe2ar_e1TVpMSA" position="2.231541548023415,-83.42478783463952"/>
+      <visibility xmi:id="_45izoWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45izoGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_45hlgWqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="io" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4spnIGqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dU2IWqKEe2ar_e1TVpMSA" position="-4.3850904017213,56.25149558212894"/>
+      <stereotypes xmi:id="_45izpGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sqOMGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45izo2qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45izomqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_451HgGqKEe2ar_e1TVpMSA" sourceAnchor="1440.0,220.0" targetAnchor="598.0,134.0" dashed="true" superClass="_4830cGqKEe2ar_e1TVpMSA" subClass="_46Ci4GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4rJyUWqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5dIo4GqKEe2ar_e1TVpMSA" sourceX="1122" targetX="1265" targetY="1282"/>
+    <bendpoints xmi:id="_5dIo4WqKEe2ar_e1TVpMSA" sourceX="1122" sourceY="-1282" targetX="1265"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_45_fkGqKEe2ar_e1TVpMSA" sourceAnchor="0.0,190.0" targetAnchor="0.0,120.0" target="_48wfsGqKEe2ar_e1TVpMSA" source="_46Ci4GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tYm8GqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5dGzsGqKEe2ar_e1TVpMSA" sourceX="-1031" targetX="-1217" targetY="1521"/>
+    <bendpoints xmi:id="_5dGzsWqKEe2ar_e1TVpMSA" sourceX="-1031" sourceY="-1521" targetX="-1217"/>
+    <stereotypes xmi:id="_45_fkWqKEe2ar_e1TVpMSA" name="Reference">
+      <modelElement href="FlooringMastery.uml#_4tZOAGqKEe2ar_e1TVpMSA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_45_fkmqKEe2ar_e1TVpMSA" text="">
+      <visualProperties xmi:id="_5dOvgGqKEe2ar_e1TVpMSA" position="802.7076078358476,752.9278514100865"/>
+    </nameVisual>
+    <sourceRole xmi:id="_45_fk2qKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tYm8WqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dOIcGqKEe2ar_e1TVpMSA" position="-53.38479633541874,-22.007249731531374"/>
+      <visibility xmi:id="_45_flGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45_flWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_45_flmqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="orderDao" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4sjggGqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dPWkGqKEe2ar_e1TVpMSA" position="-602.7307532066284,1499.0841152339995"/>
+      <stereotypes xmi:id="_Lt0yAGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l6fTMGqLEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sjggWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45_fl2qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45_fmGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_46AtsGqKEe2ar_e1TVpMSA" sourceAnchor="1440.0,190.0" targetAnchor="203.0,100.0" target="_47OOoGqKEe2ar_e1TVpMSA" source="_46Ci4GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tZ1EGqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5dHawGqKEe2ar_e1TVpMSA" sourceX="904" targetY="1062"/>
+    <stereotypes xmi:id="_46AtsWqKEe2ar_e1TVpMSA" name="Reference">
+      <modelElement href="FlooringMastery.uml#_4tacIGqKEe2ar_e1TVpMSA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_46AtsmqKEe2ar_e1TVpMSA" text="">
+      <visualProperties xmi:id="_5dRLwGqKEe2ar_e1TVpMSA" position="-739.7964112259024,-8.868856078689987"/>
+    </nameVisual>
+    <sourceRole xmi:id="_46Ats2qKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tZ1EWqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dQksGqKEe2ar_e1TVpMSA" position="33.82812244656054,-23.70361222284191"/>
+      <visibility xmi:id="_46AttGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46AttWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_46AttmqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="productsDao" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4skHkGqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dRLwWqKEe2ar_e1TVpMSA" position="-626.5961708949778,1038.336802514389"/>
+      <stereotypes xmi:id="_Ltzj4GqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l6ghUGqLEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4skHkWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46Att2qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46AtuGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_46B70GqKEe2ar_e1TVpMSA" sourceAnchor="820.0,0.0" targetAnchor="100.0,100.0" target="_48qZEGqKEe2ar_e1TVpMSA" source="_46Ci4GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tacIWqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5dIB0GqKEe2ar_e1TVpMSA" sourceY="-323" targetX="-726" targetY="40"/>
+    <bendpoints xmi:id="_5dIB0WqKEe2ar_e1TVpMSA" sourceX="726" sourceY="-323" targetY="40"/>
+    <stereotypes xmi:id="_46B70WqKEe2ar_e1TVpMSA" name="Reference">
+      <modelElement href="FlooringMastery.uml#_4tacI2qKEe2ar_e1TVpMSA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_46B70mqKEe2ar_e1TVpMSA" text="">
+      <visualProperties xmi:id="_5dSZ4GqKEe2ar_e1TVpMSA" position="-382.39453814214977,137.63200965086776"/>
+    </nameVisual>
+    <sourceRole xmi:id="_46B702qKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tacImqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dRy0GqKEe2ar_e1TVpMSA" position="0.11997418700900653,-73.97970611277651"/>
+      <visibility xmi:id="_46B71GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46B71WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_46B71mqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="taxDao" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4skHkmqKEe2ar_e1TVpMSA"/>
+      <visualProperties xmi:id="_5dTA8GqKEe2ar_e1TVpMSA" position="-754.5981467368716,24.461256426133104"/>
+      <stereotypes xmi:id="_Lty80GqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l6hIYGqLEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4skuoGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46B712qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46B72GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_46jgQGqKEe2ar_e1TVpMSA" sourceAnchor="438.0,82.0" targetAnchor="173.0,100.0" dashed="true" superClass="_47OOoGqKEe2ar_e1TVpMSA" subClass="_46l8gGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4q4FgGqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5dIo4mqKEe2ar_e1TVpMSA" sourceX="259" targetY="137"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_469I4GqKEe2ar_e1TVpMSA" target="_47BaUGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tO18GqKEe2ar_e1TVpMSA"/>
+    <nameVisual xmi:id="_46_lIGqKEe2ar_e1TVpMSA" text=""/>
+    <sourceRole xmi:id="_46_lIWqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="date" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4scy0mqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47AzQWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47AzQGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_46_lImqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tO18WqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47AzQ2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47AzQmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_473H0GqKEe2ar_e1TVpMSA" sourceAnchor="367.0,0.0" targetAnchor="0.0,246.0" dashed="true" superClass="_45jasGqKEe2ar_e1TVpMSA" subClass="_478AUGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4reicWqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5dJP8GqKEe2ar_e1TVpMSA" sourceY="-301" targetX="-438"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_477ZQGqKEe2ar_e1TVpMSA" source="_478AUGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4tbqQWqKEe2ar_e1TVpMSA"/>
+    <stereotypes xmi:id="_477ZQWqKEe2ar_e1TVpMSA" name="Reference">
+      <modelElement href="FlooringMastery.uml#_4tbqQ2qKEe2ar_e1TVpMSA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_477ZQmqKEe2ar_e1TVpMSA" text=""/>
+    <sourceRole xmi:id="_477ZQ2qKEe2ar_e1TVpMSA" aggregationKind="NONE" name="">
+      <modelElement href="FlooringMastery.uml#_4tbqQmqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_477ZRGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_477ZRWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_477ZRmqKEe2ar_e1TVpMSA" aggregationKind="NONE" name="sc" navigable="true">
+      <modelElement href="FlooringMastery.uml#_4soZAmqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_LtxusGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l6jkoGqLEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4spAEGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_477ZR2qKEe2ar_e1TVpMSA" label="~"/>
+      <cardinality xmi:id="_477ZSGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_48oj4GqKEe2ar_e1TVpMSA" sourceAnchor="292.0,33.0" targetAnchor="130.0,100.0" dashed="true" superClass="_48qZEGqKEe2ar_e1TVpMSA" subClass="_45B2QGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4q6hwGqKEe2ar_e1TVpMSA"/>
+    <bendpoints xmi:id="_5dGMoGqKEe2ar_e1TVpMSA" sourceX="406" targetY="88"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_48tcYGqKEe2ar_e1TVpMSA" sourceAnchor="671.0,0.0" targetAnchor="230.0,240.0" dashed="true" superClass="_48wfsGqKEe2ar_e1TVpMSA" subClass="_45LAMGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4rVYgWqKEe2ar_e1TVpMSA"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_42_18GqKEe2ar_e1TVpMSA" name="InvalidOrderNumberException">
+    <modelElement href="FlooringMastery.uml#_4lZvoGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_42_18WqKEe2ar_e1TVpMSA" position="30.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_42_18mqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_42_182qKEe2ar_e1TVpMSA" name="InvalidOrderNumberException">
+      <modelElement href="FlooringMastery.uml#_4laWsGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_42_19GqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_42_19WqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_42_19mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_42_192qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4la9wWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_42_1-GqKEe2ar_e1TVpMSA" name="InvalidOrderNumberException">
+          <modelElement href="FlooringMastery.uml#_4lZvoGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_42_1-WqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4laWsWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_42_1-mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_42_1-2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_42_1_GqKEe2ar_e1TVpMSA" name="InvalidOrderNumberException">
+      <modelElement href="FlooringMastery.uml#_4sJQ0GqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_42_1_WqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_42_1_mqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_42_1_2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_42_2AGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sJQ1WqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_42_2AWqKEe2ar_e1TVpMSA" name="InvalidOrderNumberException">
+          <modelElement href="FlooringMastery.uml#_4lZvoGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_42_2AmqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4sJQ0WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_42_2A2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_42_2BGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_42_2BWqKEe2ar_e1TVpMSA" name="cause">
+        <modelElement href="FlooringMastery.uml#_4sJQ0mqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_42_2BmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_42_2B2qKEe2ar_e1TVpMSA" name="Throwable">
+          <modelElement href="FlooringMastery.uml#_4rwPQGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_44sfEGqKEe2ar_e1TVpMSA" name="FlooringMasteryController" associationsOut="_44qp4GqKEe2ar_e1TVpMSA _44r4AGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4lnLAGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_44sfEWqKEe2ar_e1TVpMSA" position="-36.0,1112.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_44sfEmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_44sfE2qKEe2ar_e1TVpMSA" name="view">
+      <modelElement href="FlooringMastery.uml#_4snx8GqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_l7QvQGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7TLgGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7vQYGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <visibility xmi:id="_44sfFWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfFmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_44sfF2qKEe2ar_e1TVpMSA" name="FlooringMasteryView">
+        <modelElement href="FlooringMastery.uml#_4mPdIGqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_44sfGGqKEe2ar_e1TVpMSA" name="service">
+      <modelElement href="FlooringMastery.uml#_4soZAGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_l7VAsGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7WO0GqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7v3cGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <visibility xmi:id="_44sfGmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfG2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_44sfHGqKEe2ar_e1TVpMSA" name="FlooringMasteryService">
+        <modelElement href="FlooringMastery.uml#_4lIp4GqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_44sfHWqKEe2ar_e1TVpMSA" name="run">
+      <modelElement href="FlooringMastery.uml#_4lpAMGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfHmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_44sfH2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_44sfIGqKEe2ar_e1TVpMSA" name="getMenuSelection">
+      <modelElement href="FlooringMastery.uml#_4lpnQGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfIWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfImqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_44sfI2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lqOUGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_44sfJGqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_44sfJWqKEe2ar_e1TVpMSA" name="exitMessage">
+      <modelElement href="FlooringMastery.uml#_4lqOUWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfJmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfJ2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_44sfKGqKEe2ar_e1TVpMSA" name="unknownCommand">
+      <modelElement href="FlooringMastery.uml#_4lqOUmqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfKWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfKmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_44sfK2qKEe2ar_e1TVpMSA" name="getOrdersByDate">
+      <modelElement href="FlooringMastery.uml#_4lq1YGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfLGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfLWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_44sfLmqKEe2ar_e1TVpMSA" name="addOrder">
+      <modelElement href="FlooringMastery.uml#_4lrccGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfL2qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfMGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_44sfMWqKEe2ar_e1TVpMSA" name="editOrder">
+      <modelElement href="FlooringMastery.uml#_4lrccWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfMmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfM2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_44sfNGqKEe2ar_e1TVpMSA" name="removeOrder">
+      <modelElement href="FlooringMastery.uml#_4lsDgGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_44sfNWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_44sfNmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_44sfN2qKEe2ar_e1TVpMSA" name="FlooringMasteryController">
+      <modelElement href="FlooringMastery.uml#_4rbfIGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_44sfOGqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_44sfOWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_44sfOmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_44sfO2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rbfJWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_44sfPGqKEe2ar_e1TVpMSA" name="FlooringMasteryController">
+          <modelElement href="FlooringMastery.uml#_4lnLAGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_44sfPWqKEe2ar_e1TVpMSA" name="service">
+        <modelElement href="FlooringMastery.uml#_4rbfIWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_44sfPmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_44sfP2qKEe2ar_e1TVpMSA" name="FlooringMasteryService">
+          <modelElement href="FlooringMastery.uml#_4lIp4GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_44sfQGqKEe2ar_e1TVpMSA" name="view">
+        <modelElement href="FlooringMastery.uml#_4rbfImqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_44sfQWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_44sfQmqKEe2ar_e1TVpMSA" name="FlooringMasteryView">
+          <modelElement href="FlooringMastery.uml#_4mPdIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_4489wGqKEe2ar_e1TVpMSA" name="DataPersistenceException">
+    <modelElement href="FlooringMastery.uml#_4kABcGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_4489wWqKEe2ar_e1TVpMSA" position="35.0,1515.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_4489wmqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_4489w2qKEe2ar_e1TVpMSA" name="DataPersistenceException">
+      <modelElement href="FlooringMastery.uml#_4kB2oGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_4489xGqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_4489xWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4489xmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_4489x2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4kCdsWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4489yGqKEe2ar_e1TVpMSA" name="DataPersistenceException">
+          <modelElement href="FlooringMastery.uml#_4kABcGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4489yWqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4kB2oWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4489ymqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4489y2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_4489zGqKEe2ar_e1TVpMSA" name="DataPersistenceException">
+      <modelElement href="FlooringMastery.uml#_4rzSkGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_4489zWqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_4489zmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4489z2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_44890GqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rz5omqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_44890WqKEe2ar_e1TVpMSA" name="DataPersistenceException">
+          <modelElement href="FlooringMastery.uml#_4kABcGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_44890mqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4rzSkWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_448902qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_44891GqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_44891WqKEe2ar_e1TVpMSA" name="cause">
+        <modelElement href="FlooringMastery.uml#_4rzSkmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_44891mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_448912qKEe2ar_e1TVpMSA" name="Throwable">
+          <modelElement href="FlooringMastery.uml#_4rwPQGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_45B2QGqKEe2ar_e1TVpMSA" name="FlooringMasteryTaxDaoImp" generalizations="_48oj4GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4kkCIGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_45B2QWqKEe2ar_e1TVpMSA" position="306.0,1677.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_45B2QmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_45B2Q2qKEe2ar_e1TVpMSA" defaultValue="&quot;Taxes.txt&quot;" name="TAXES_TXT" staticAttribute="true">
+      <modelElement href="FlooringMastery.uml#_4sbks2qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45B2RGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45B2RWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_45B2RmqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_45B2R2qKEe2ar_e1TVpMSA" defaultValue="&quot;,&quot;" name="DELIMITER" staticAttribute="true">
+      <modelElement href="FlooringMastery.uml#_4scy0GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45B2SGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45B2SWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_45B2SmqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_45B2S2qKEe2ar_e1TVpMSA" name="loadTaxes">
+      <modelElement href="FlooringMastery.uml#_4kl3UGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45B2TGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45B2TWqKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_45B2TmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4kl3UWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45B2T2qKEe2ar_e1TVpMSA" name="Tax">
+          <modelElement href="FlooringMastery.uml#_4lBVIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_45B2UGqKEe2ar_e1TVpMSA" name="getTax">
+      <modelElement href="FlooringMastery.uml#_4knsgGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45B2UWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4ko6oGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_45B2UmqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4kqIwGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45B2U2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45B2VGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45B2VWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4q6hwWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45B2VmqKEe2ar_e1TVpMSA" name="Tax">
+          <modelElement href="FlooringMastery.uml#_4lBVIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45B2V2qKEe2ar_e1TVpMSA" name="state">
+        <modelElement href="FlooringMastery.uml#_4knsgWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45B2WGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45B2WWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_45LAMGqKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDaoImp" generalizations="_48tcYGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4lcL4GqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_45LAMWqKEe2ar_e1TVpMSA" position="-827.0,829.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_45LAMmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_45LAM2qKEe2ar_e1TVpMSA" name="lastOrderNumber">
+      <modelElement href="FlooringMastery.uml#_4slVsGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LANGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4smj0GqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LANWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45LANmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_45LAN2qKEe2ar_e1TVpMSA" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_45LAOGqKEe2ar_e1TVpMSA" defaultValue="&quot;OrderNumber,CustomerName,State,TaxRate,&quot;&#xD;&#xA;            + &quot;ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,&quot;&#xD;&#xA;            + &quot;MaterialCost,LaborCost,Tax,Total&quot;" name="HEADER" staticAttribute="true">
+      <modelElement href="FlooringMastery.uml#_4smj0WqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45LAOWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45LAOmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_45LAO2qKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_45LAPGqKEe2ar_e1TVpMSA" defaultValue="&quot;,&quot;" name="DELIMITER" staticAttribute="true">
+      <modelElement href="FlooringMastery.uml#_4smj02qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45LAPWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45LAPmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_45LAP2qKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_45LAQGqKEe2ar_e1TVpMSA" defaultValue="&quot;orders/&quot;" name="ORDERS_FILE">
+      <modelElement href="FlooringMastery.uml#_4snK4GqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LAQWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4snK4mqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LAQmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45LAQ2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_45LARGqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_45LARWqKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDaoImp">
+      <modelElement href="FlooringMastery.uml#_4ldaAGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_45LARmqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_45LnQGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45LnQWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45LnQmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4leoImqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45LnQ2qKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDaoImp">
+          <modelElement href="FlooringMastery.uml#_4lcL4GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45LnRGqKEe2ar_e1TVpMSA" name="ORDERS_FILE">
+        <modelElement href="FlooringMastery.uml#_4leBEGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45LnRWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnRmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45LnR2qKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDaoImp">
+      <modelElement href="FlooringMastery.uml#_4leoI2qKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_45LnSGqKEe2ar_e1TVpMSA" keyword="create"/>
+      <stereotypes xmi:id="_45LnSWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4lf2QGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LnSmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45LnS2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45LnTGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lgdUGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45LnTWqKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDaoImp">
+          <modelElement href="FlooringMastery.uml#_4lcL4GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_45LnTmqKEe2ar_e1TVpMSA" name="writeLastOrderNumber">
+      <modelElement href="FlooringMastery.uml#_4lgdUWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45LnT2qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45LnUGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_45LnUWqKEe2ar_e1TVpMSA" name="lastOrderNumber">
+        <modelElement href="FlooringMastery.uml#_4lhEYGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45LnUmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnU2qKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45LnVGqKEe2ar_e1TVpMSA" name="readLastOrderNumber">
+      <modelElement href="FlooringMastery.uml#_4lhrcGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45LnVWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45LnVmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_45LnV2qKEe2ar_e1TVpMSA" name="addOrder">
+      <modelElement href="FlooringMastery.uml#_4rV_kGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LnWGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rXNsGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_45LnWWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rXNsWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LnWmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45LnW2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45LnXGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rV_kmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45LnXWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45LnXmqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rV_kWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45LnX2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnYGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45LnYWqKEe2ar_e1TVpMSA" name="removeOrder">
+      <modelElement href="FlooringMastery.uml#_4rXNs2qKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LnYmqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rYb0WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_45LnY2qKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rYb0mqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LnZGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45LnZWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45LnZmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rYb0GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45LnZ2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45LnaGqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rXNtGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45LnaWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnamqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45Lna2qKEe2ar_e1TVpMSA" name="editOrder">
+      <modelElement href="FlooringMastery.uml#_4rYb1GqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LnbGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rZC4WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_45LnbWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rZC4mqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LnbmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45Lnb2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45LncGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rZC4GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45LncWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45LncmqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rYb1WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45Lnc2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LndGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45LndWqKEe2ar_e1TVpMSA" name="cleanFields">
+      <modelElement href="FlooringMastery.uml#_4rZC5GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45LndmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_45Lnd2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45LneGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rZC5mqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45LneWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45LnemqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rZC5WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45Lne2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnfGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45LnfWqKEe2ar_e1TVpMSA" name="getAllOrders">
+      <modelElement href="FlooringMastery.uml#_4sKe8GqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LnfmqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sKe9GqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_45Lnf2qKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sLGAGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LngGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45LngWqKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_45LngmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sKe8mqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45Lng2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45LnhGqKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4sKe8WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45LnhWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnhmqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45Lnh2qKEe2ar_e1TVpMSA" name="loadOrdersFromFile">
+      <modelElement href="FlooringMastery.uml#_4sLGAmqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LniGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sLtE2qKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_45LniWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sMUIGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LnimqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45Lni2qKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_45LnjGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sLtEWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45LnjWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45LnjmqKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4sLtEGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45Lnj2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnkGqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45LnkWqKEe2ar_e1TVpMSA" name="writeOrdersToFile">
+      <modelElement href="FlooringMastery.uml#_4sMUImqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_45LnkmqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sM7MmqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_45Lnk2qKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sOJUGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_45LnlGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45LnlWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_45LnlmqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4sM7MGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45Lnl2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45LnmGqKEe2ar_e1TVpMSA" name="List">
+          <modelElement href="FlooringMastery.uml#_4qo08WqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45LnmWqKEe2ar_e1TVpMSA" name="orderDate">
+        <modelElement href="FlooringMastery.uml#_4sM7MWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45LnmmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45Lnm2qKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_45ZpsGqKEe2ar_e1TVpMSA" name="App">
+    <modelElement href="FlooringMastery.uml#_4jRosGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_45ZpsWqKEe2ar_e1TVpMSA" position="-9.0,1688.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_45ZpsmqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_45Zps2qKEe2ar_e1TVpMSA" name="main" staticOperation="true">
+      <modelElement href="FlooringMastery.uml#_4jayoGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45ZptGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45ZptWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_45ZptmqKEe2ar_e1TVpMSA" name="args">
+        <modelElement href="FlooringMastery.uml#_4jayoWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45Zpt2qKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_45ZpuGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_45jasGqKEe2ar_e1TVpMSA" name="UserIO" associationsIn="_45dUEGqKEe2ar_e1TVpMSA" subclassedBy="_473H0GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4jfrIGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_45jasWqKEe2ar_e1TVpMSA" position="-2322.0,-593.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_45jasmqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_45jas2qKEe2ar_e1TVpMSA" name="print">
+      <modelElement href="FlooringMastery.uml#_4jg5QGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jatGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jatWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_45jatmqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4jg5QWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jat2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jauGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jauWqKEe2ar_e1TVpMSA" name="readString">
+      <modelElement href="FlooringMastery.uml#_4jiHYGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jaumqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jau2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45javGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jiucGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45javWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45javmqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jiHYWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jav2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jawGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jawWqKEe2ar_e1TVpMSA" name="readInt">
+      <modelElement href="FlooringMastery.uml#_4jj8kGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jawmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jaw2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jaxGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jkjoGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jaxWqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jaxmqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jj8kWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jax2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jayGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jayWqKEe2ar_e1TVpMSA" name="readInt">
+      <modelElement href="FlooringMastery.uml#_4jlxwGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jaymqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jay2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jazGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jmY0WqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jazWqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jazmqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jlxwWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jaz2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja0GqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45ja0WqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4jlxwmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja0mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja02qKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45ja1GqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4jmY0GqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja1WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja1mqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45ja12qKEe2ar_e1TVpMSA" name="readDouble">
+      <modelElement href="FlooringMastery.uml#_4jnm8GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45ja2GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45ja2WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45ja2mqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jnm8mqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45ja22qKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45ja3GqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jnm8WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja3WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja3mqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45ja32qKEe2ar_e1TVpMSA" name="readDouble">
+      <modelElement href="FlooringMastery.uml#_4jo1EGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45ja4GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45ja4WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45ja4mqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jqDMGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45ja42qKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45ja5GqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jo1EWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja5WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja5mqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45ja52qKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4jo1EmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja6GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja6WqKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45ja6mqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4jpcIGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja62qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja7GqKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45ja7WqKEe2ar_e1TVpMSA" name="readFloat">
+      <modelElement href="FlooringMastery.uml#_4jqDMWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45ja7mqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45ja72qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45ja8GqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jrRUGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45ja8WqKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45ja8mqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jqqQGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja82qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja9GqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45ja9WqKEe2ar_e1TVpMSA" name="readFloat">
+      <modelElement href="FlooringMastery.uml#_4jr4YGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45ja9mqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45ja92qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45ja-GqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jsfcmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45ja-WqKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45ja-mqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jr4YWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja-2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja_GqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45ja_WqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4jsfcGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45ja_mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45ja_2qKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45jbAGqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4jsfcWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbAWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbAmqKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jbA2qKEe2ar_e1TVpMSA" name="readLong">
+      <modelElement href="FlooringMastery.uml#_4jttkGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jbBGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jbBWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jbBmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jttkmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jbB2qKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jbCGqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jttkWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbCWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbCmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jbC2qKEe2ar_e1TVpMSA" name="readLong">
+      <modelElement href="FlooringMastery.uml#_4ju7sGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jbDGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jbDWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jbDmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4jviwGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jbD2qKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jbEGqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4ju7sWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbEWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbEmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45jbE2qKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4ju7smqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbFGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbFWqKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45jbFmqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4ju7s2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbF2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbGGqKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jbGWqKEe2ar_e1TVpMSA" name="readBigDecimal">
+      <modelElement href="FlooringMastery.uml#_4jwJ0GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jbGmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jbG2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jbHGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rr90GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jbHWqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jbHmqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jwJ0WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbH2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbIGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jbIWqKEe2ar_e1TVpMSA" name="readDate">
+      <modelElement href="FlooringMastery.uml#_4jzNIGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jbImqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jbI2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jbJGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rsk5GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jbJWqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jbJmqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4jzNIWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbJ2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbKGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jbKWqKEe2ar_e1TVpMSA" name="readBigDecimal">
+      <modelElement href="FlooringMastery.uml#_4rr90WqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jbKmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jbK2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jbLGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rsk42qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jbLWqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jbLmqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4rsk4GqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbL2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbMGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45jbMWqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4rsk4WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbMmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbM2qKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45jbNGqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4rsk4mqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbNWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbNmqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jbN2qKEe2ar_e1TVpMSA" name="readDate">
+      <modelElement href="FlooringMastery.uml#_4rtL8GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jbOGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jbOWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jbOmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rtzA2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jbO2qKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jbPGqKEe2ar_e1TVpMSA" name="s">
+        <modelElement href="FlooringMastery.uml#_4rtzAGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbPWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbPmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45jbP2qKEe2ar_e1TVpMSA" name="of">
+        <modelElement href="FlooringMastery.uml#_4rtzAWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbQGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbQWqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_45jbQmqKEe2ar_e1TVpMSA" name="of1">
+        <modelElement href="FlooringMastery.uml#_4rtzAmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbQ2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbRGqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_45jbRWqKEe2ar_e1TVpMSA" name="formatCurrency">
+      <modelElement href="FlooringMastery.uml#_4ruaEGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_45jbRmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_45jbR2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_45jbSGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4ruaEmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_45jbSWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_45jbSmqKEe2ar_e1TVpMSA" name="total">
+        <modelElement href="FlooringMastery.uml#_4ruaEWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_45jbS2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_45jbTGqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_46Ci4GqKEe2ar_e1TVpMSA" name="FlooringMasteryServiceImp" associationsOut="_45_fkGqKEe2ar_e1TVpMSA _46AtsGqKEe2ar_e1TVpMSA _46B70GqKEe2ar_e1TVpMSA" generalizations="_451HgGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4lOJcGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_46Ci4WqKEe2ar_e1TVpMSA" position="-572.0,1985.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_46Ci4mqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_46Ci42qKEe2ar_e1TVpMSA" name="orderDao">
+      <modelElement href="FlooringMastery.uml#_4sjggGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_l7buYGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7eKoGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l70I4GqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <visibility xmi:id="_46Ci5WqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46Ci5mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46Ci52qKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDao">
+        <modelElement href="FlooringMastery.uml#_4kDr0GqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_46Ci6GqKEe2ar_e1TVpMSA" name="productsDao">
+      <modelElement href="FlooringMastery.uml#_4skHkGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_l7fYwGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7h1AGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l71XAGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <visibility xmi:id="_46Ci6mqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46Ci62qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46Ci7GqKEe2ar_e1TVpMSA" name="FlooringMasteryProductsDao">
+        <modelElement href="FlooringMastery.uml#_4kPSAGqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_46Ci7WqKEe2ar_e1TVpMSA" name="taxDao">
+      <modelElement href="FlooringMastery.uml#_4skHkmqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_l7k4UGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7n7oGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l72lIGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <visibility xmi:id="_46Ci72qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46Ci8GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46Ci8WqKEe2ar_e1TVpMSA" name="FlooringMasteryTaxDao">
+        <modelElement href="FlooringMastery.uml#_4khl4GqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_46Ci8mqKEe2ar_e1TVpMSA" name="FlooringMasteryServiceImp">
+      <modelElement href="FlooringMastery.uml#_4rKZYGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46Ci82qKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46Ci9GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46Ci9WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46Ci9mqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rLAdWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46Ci92qKEe2ar_e1TVpMSA" name="FlooringMasteryServiceImp">
+          <modelElement href="FlooringMastery.uml#_4lOJcGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46Ci-GqKEe2ar_e1TVpMSA" name="orderDao">
+        <modelElement href="FlooringMastery.uml#_4rLAcGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46Ci-WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46Ci-mqKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDao">
+          <modelElement href="FlooringMastery.uml#_4kDr0GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46Ci-2qKEe2ar_e1TVpMSA" name="productsDao">
+        <modelElement href="FlooringMastery.uml#_4rLAcWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46Ci_GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46Ci_WqKEe2ar_e1TVpMSA" name="FlooringMasteryProductsDao">
+          <modelElement href="FlooringMastery.uml#_4kPSAGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46Ci_mqKEe2ar_e1TVpMSA" name="taxDao">
+        <modelElement href="FlooringMastery.uml#_4rLAcmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46Ci_2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjAGqKEe2ar_e1TVpMSA" name="FlooringMasteryTaxDao">
+          <modelElement href="FlooringMastery.uml#_4khl4GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjAWqKEe2ar_e1TVpMSA" name="calculateOrders">
+      <modelElement href="FlooringMastery.uml#_4rLngGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46CjAmqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rLng2qKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46CjA2qKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rMOkGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46CjBGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46CjBWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46CjBmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rLngmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46CjB2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46CjCGqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4rLngWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjCWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjCmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjC2qKEe2ar_e1TVpMSA" name="calculateTotal">
+      <modelElement href="FlooringMastery.uml#_4rMOkmqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46CjDGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46CjDWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_46CjDmqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4rMOk2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjD2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjEGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjEWqKEe2ar_e1TVpMSA" name="calculateMaterial">
+      <modelElement href="FlooringMastery.uml#_4rM1oGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46CjEmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46CjE2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_46CjFGqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4rM1oWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjFWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjFmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjF2qKEe2ar_e1TVpMSA" name="calculateTax">
+      <modelElement href="FlooringMastery.uml#_4rM1omqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46CjGGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46CjGWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_46CjGmqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4rM1o2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjG2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjHGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjHWqKEe2ar_e1TVpMSA" name="validateOrder">
+      <modelElement href="FlooringMastery.uml#_4rM1pGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46CjHmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46CjH2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_46CjIGqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4rM1pWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjIWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjImqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjI2qKEe2ar_e1TVpMSA" name="addOrder">
+      <modelElement href="FlooringMastery.uml#_4rODwGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46CjJGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rOq0GqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46CjJWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rOq0WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46CjJmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46CjJ2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46CjKGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rODwmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46CjKWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46CjKmqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rODwWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjK2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjLGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjLWqKEe2ar_e1TVpMSA" name="compareOrders">
+      <modelElement href="FlooringMastery.uml#_4rOq02qKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46CjLmqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rP48WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46CjL2qKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rP48mqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46CjMGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46CjMWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46CjMmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rP48GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46CjM2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46CjNGqKEe2ar_e1TVpMSA" name="savedOrder">
+        <modelElement href="FlooringMastery.uml#_4rPR4GqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjNWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjNmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46CjN2qKEe2ar_e1TVpMSA" name="editedOrder">
+        <modelElement href="FlooringMastery.uml#_4rPR4WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjOGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjOWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjOmqKEe2ar_e1TVpMSA" name="editOrder">
+      <modelElement href="FlooringMastery.uml#_4rP49GqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46CjO2qKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rRHEGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46CjPGqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rRuIGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46CjPWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46CjPmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46CjP2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rQgAWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46CjQGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46CjQWqKEe2ar_e1TVpMSA" name="updatedOrder">
+        <modelElement href="FlooringMastery.uml#_4rQgAGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjQmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjQ2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjRGqKEe2ar_e1TVpMSA" name="removeOrder">
+      <modelElement href="FlooringMastery.uml#_4rRuImqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46CjRWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4rSVMWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46CjRmqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4rSVMmqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46CjR2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46CjSGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46CjSWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rSVMGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46CjSmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46CjS2qKEe2ar_e1TVpMSA" name="removedOrder">
+        <modelElement href="FlooringMastery.uml#_4rRuI2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjTGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjTWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjTmqKEe2ar_e1TVpMSA" name="getOrders">
+      <modelElement href="FlooringMastery.uml#_4sGNgGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46CjT2qKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sG0kmqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46CjUGqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sHboGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46CjUWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46CjUmqKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_46CjU2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sG0kGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46CjVGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46CjVWqKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4sGNgWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjVmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjV2qKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46CjWGqKEe2ar_e1TVpMSA" name="getOrder">
+      <modelElement href="FlooringMastery.uml#_4sICsGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46CjWWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sICtGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46CjWmqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sIpwGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46CjW2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46CjXGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46CjXWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sICs2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46CjXmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46CjX2qKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4sICsWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjYGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjYWqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46CjYmqKEe2ar_e1TVpMSA" name="orderNumber">
+        <modelElement href="FlooringMastery.uml#_4sICsmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46CjY2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46CjZGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_46Wr8GqKEe2ar_e1TVpMSA" name="OrderValidationException">
+    <modelElement href="FlooringMastery.uml#_4kM1wGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_46Wr8WqKEe2ar_e1TVpMSA" position="-795.0,1515.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_46Wr8mqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_46Wr82qKEe2ar_e1TVpMSA" name="OrderValidationException">
+      <modelElement href="FlooringMastery.uml#_4kNc0GqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46Wr9GqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46Wr9WqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46Wr9mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46Wr92qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4kOD42qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46Wr-GqKEe2ar_e1TVpMSA" name="OrderValidationException">
+          <modelElement href="FlooringMastery.uml#_4kM1wGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46Wr-WqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4kOD4GqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46Wr-mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46Wr-2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46Wr_GqKEe2ar_e1TVpMSA" name="OrderValidationException">
+      <modelElement href="FlooringMastery.uml#_4r4LEGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46Wr_WqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46Wr_mqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46Wr_2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46WsAGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4r4yI2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46WsAWqKEe2ar_e1TVpMSA" name="OrderValidationException">
+          <modelElement href="FlooringMastery.uml#_4kM1wGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46WsAmqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4r4LEWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46WsA2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46WsBGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46WsBWqKEe2ar_e1TVpMSA" name="cause">
+        <modelElement href="FlooringMastery.uml#_4r4yIGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46WsBmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46WsB2qKEe2ar_e1TVpMSA" name="Throwable">
+          <modelElement href="FlooringMastery.uml#_4rwPQGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_46bkcGqKEe2ar_e1TVpMSA" name="StateTaxValidationException">
+    <modelElement href="FlooringMastery.uml#_4j5TwGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_46bkcWqKEe2ar_e1TVpMSA" position="-917.0,1725.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_46bkcmqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_46bkc2qKEe2ar_e1TVpMSA" name="StateTaxValidationException">
+      <modelElement href="FlooringMastery.uml#_4j6h4GqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46bkdGqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46bkdWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46bkdmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46bkd2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4j6h5GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46bkeGqKEe2ar_e1TVpMSA" name="StateTaxValidationException">
+          <modelElement href="FlooringMastery.uml#_4j5TwGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46bkeWqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4j6h4WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46bkemqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46bke2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46bkfGqKEe2ar_e1TVpMSA" name="StateTaxValidationException">
+      <modelElement href="FlooringMastery.uml#_4rw2UWqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46bkfWqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46bkfmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46bkf2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46bkgGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rxdZGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46bkgWqKEe2ar_e1TVpMSA" name="StateTaxValidationException">
+          <modelElement href="FlooringMastery.uml#_4j5TwGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46bkgmqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4rxdYGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46bkg2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46bkhGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46bkhWqKEe2ar_e1TVpMSA" name="cause">
+        <modelElement href="FlooringMastery.uml#_4rxdYWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46bkhmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46bkh2qKEe2ar_e1TVpMSA" name="Throwable">
+          <modelElement href="FlooringMastery.uml#_4rwPQGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_46f14GqKEe2ar_e1TVpMSA" name="ProductValidationException">
+    <modelElement href="FlooringMastery.uml#_4j8-IGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_46f14WqKEe2ar_e1TVpMSA" position="694.0,1725.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_46f14mqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_46f142qKEe2ar_e1TVpMSA" name="ProductValidationException">
+      <modelElement href="FlooringMastery.uml#_4j-MQGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46f15GqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46f15WqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46f15mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46f152qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4j-zUmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46f16GqKEe2ar_e1TVpMSA" name="ProductValidationException">
+          <modelElement href="FlooringMastery.uml#_4j8-IGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46f16WqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4j-MQWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46f16mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46f162qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46f17GqKEe2ar_e1TVpMSA" name="ProductValidationException">
+      <modelElement href="FlooringMastery.uml#_4ryEcGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46f17WqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46f17mqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46f172qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46f18GqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4ryEdWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46f18WqKEe2ar_e1TVpMSA" name="ProductValidationException">
+          <modelElement href="FlooringMastery.uml#_4j8-IGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46f18mqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4ryEcWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46f182qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46f19GqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46f19WqKEe2ar_e1TVpMSA" name="cause">
+        <modelElement href="FlooringMastery.uml#_4ryEcmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46f19mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46f192qKEe2ar_e1TVpMSA" name="Throwable">
+          <modelElement href="FlooringMastery.uml#_4rwPQGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_46l8gGqKEe2ar_e1TVpMSA" name="FlooringMasteryProductsDaoImp" generalizations="_46jgQGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4kSVUGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_46l8gWqKEe2ar_e1TVpMSA" position="1045.0,1168.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_46l8gmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_46l8g2qKEe2ar_e1TVpMSA" defaultValue="&quot;Products.txt&quot;" name="PRODUCTS_FILE" staticAttribute="true">
+      <modelElement href="FlooringMastery.uml#_4saWkGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46l8hGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46l8hWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46l8hmqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_46l8h2qKEe2ar_e1TVpMSA" defaultValue="&quot;,&quot;" name="DELIMITER" staticAttribute="true">
+      <modelElement href="FlooringMastery.uml#_4sbksWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46l8iGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46l8iWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46l8imqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_46l8i2qKEe2ar_e1TVpMSA" name="getProduct">
+      <modelElement href="FlooringMastery.uml#_4kTjcGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46l8jGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4kUKgGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46l8jWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4kWmwGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46l8jmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46l8j2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46l8kGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4q4skGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46l8kWqKEe2ar_e1TVpMSA" name="Products">
+          <modelElement href="FlooringMastery.uml#_4k6ncGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46l8kmqKEe2ar_e1TVpMSA" name="productType">
+        <modelElement href="FlooringMastery.uml#_4kTjcWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46l8k2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46l8lGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46l8lWqKEe2ar_e1TVpMSA" name="loadProducts">
+      <modelElement href="FlooringMastery.uml#_4ka4MWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46l8lmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_46l8l2qKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_46l8mGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4ka4MmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46l8mWqKEe2ar_e1TVpMSA" name="Products">
+          <modelElement href="FlooringMastery.uml#_4k6ncGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_46sDIGqKEe2ar_e1TVpMSA" name="Products">
+    <modelElement href="FlooringMastery.uml#_4k6ncGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_46sDIWqKEe2ar_e1TVpMSA" position="-327.0,2481.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_46sDImqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_46sDI2qKEe2ar_e1TVpMSA" name="productType">
+      <modelElement href="FlooringMastery.uml#_4shrUGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46sDJGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sDJWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46sDJmqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_46sDJ2qKEe2ar_e1TVpMSA" name="costPerSquareFoot">
+      <modelElement href="FlooringMastery.uml#_4siSYGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46sDKGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sDKWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46sDKmqKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_46sDK2qKEe2ar_e1TVpMSA" name="laborCostPerSquareFoot">
+      <modelElement href="FlooringMastery.uml#_4siSYWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_46sDLGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sDLWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_46sDLmqKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_46sDL2qKEe2ar_e1TVpMSA" name="Products">
+      <modelElement href="FlooringMastery.uml#_4k71kGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46sDMGqKEe2ar_e1TVpMSA" keyword="create"/>
+      <stereotypes xmi:id="_46sDMWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4k8comqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46sDMmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sDM2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46sqMGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4k8co2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46sqMWqKEe2ar_e1TVpMSA" name="Products">
+          <modelElement href="FlooringMastery.uml#_4k6ncGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_46sqMmqKEe2ar_e1TVpMSA" name="hashCode">
+      <modelElement href="FlooringMastery.uml#_4k9qwGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46sqM2qKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4k-R0GqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46sqNGqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4k-R0WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46sqNWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sqNmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46sqN2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4k9qwWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46sqOGqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_46sqOWqKEe2ar_e1TVpMSA" name="toString">
+      <modelElement href="FlooringMastery.uml#_4k-R02qKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46sqOmqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4k_f8GqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46sqO2qKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4lAHAGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46sqPGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sqPWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46sqPmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4k-44GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46sqP2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_46sqQGqKEe2ar_e1TVpMSA" name="Products">
+      <modelElement href="FlooringMastery.uml#_4sAG4GqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_46sqQWqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_46sqQmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sqQ2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46sqRGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sAt9WqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46sqRWqKEe2ar_e1TVpMSA" name="Products">
+          <modelElement href="FlooringMastery.uml#_4k6ncGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46sqRmqKEe2ar_e1TVpMSA" name="productType">
+        <modelElement href="FlooringMastery.uml#_4sAt8GqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46sqR2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46sqSGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46sqSWqKEe2ar_e1TVpMSA" name="costPerSquareFoot">
+        <modelElement href="FlooringMastery.uml#_4sAt8WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46sqSmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46sqS2qKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_46sqTGqKEe2ar_e1TVpMSA" name="laborCostPerSquareFoot">
+        <modelElement href="FlooringMastery.uml#_4sAt8mqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46sqTWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46sqTmqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_46sqT2qKEe2ar_e1TVpMSA" name="equals">
+      <modelElement href="FlooringMastery.uml#_4sBVAGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_46sqUGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sB8EGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_46sqUWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sB8EWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_46sqUmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_46sqU2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_46sqVGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sBVAmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_46sqVWqKEe2ar_e1TVpMSA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_46sqVmqKEe2ar_e1TVpMSA" name="o">
+        <modelElement href="FlooringMastery.uml#_4sBVAWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_46sqV2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_46sqWGqKEe2ar_e1TVpMSA" name="Object">
+          <modelElement href="FlooringMastery.uml#_4r8cgGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_464QYGqKEe2ar_e1TVpMSA" name="Tax">
+    <modelElement href="FlooringMastery.uml#_4lBVIGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_464QYWqKEe2ar_e1TVpMSA" position="-1588.0,1025.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_464QYmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_464QY2qKEe2ar_e1TVpMSA" name="stateAbbreviation">
+      <modelElement href="FlooringMastery.uml#_4siSYmqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_464QZGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464QZWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_464QZmqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_464QZ2qKEe2ar_e1TVpMSA" name="stateName">
+      <modelElement href="FlooringMastery.uml#_4si5cGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_464QaGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464QaWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_464QamqKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_464Qa2qKEe2ar_e1TVpMSA" name="taxRate">
+      <modelElement href="FlooringMastery.uml#_4si5cWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_464QbGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464QbWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_464QbmqKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_464Qb2qKEe2ar_e1TVpMSA" name="Tax">
+      <modelElement href="FlooringMastery.uml#_4lCjQGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_464QcGqKEe2ar_e1TVpMSA" keyword="create"/>
+      <stereotypes xmi:id="_464QcWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4lDKUGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_464QcmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464Qc2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_464QdGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lDKUWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_464QdWqKEe2ar_e1TVpMSA" name="Tax">
+          <modelElement href="FlooringMastery.uml#_4lBVIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_464QdmqKEe2ar_e1TVpMSA" name="hashCode">
+      <modelElement href="FlooringMastery.uml#_4lDxYGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_464Qd2qKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4lEYcWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_464QeGqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4lE_gGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_464QeWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464QemqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_464Qe2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lEYcGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_464QfGqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_464QfWqKEe2ar_e1TVpMSA" name="toString">
+      <modelElement href="FlooringMastery.uml#_4lFmkGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_464QfmqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4lGNoGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_464Qf2qKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4lGNoWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_464QgGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464QgWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_464QgmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lFmkWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_464Qg2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_464QhGqKEe2ar_e1TVpMSA" name="Tax">
+      <modelElement href="FlooringMastery.uml#_4sCjIGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_464QhWqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_464QhmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464Qh2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_464QiGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sDKNWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_464QiWqKEe2ar_e1TVpMSA" name="Tax">
+          <modelElement href="FlooringMastery.uml#_4lBVIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_464QimqKEe2ar_e1TVpMSA" name="stateAbbreviation">
+        <modelElement href="FlooringMastery.uml#_4sDKMGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_464Qi2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_464QjGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_464QjWqKEe2ar_e1TVpMSA" name="stateName">
+        <modelElement href="FlooringMastery.uml#_4sDKMWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_464QjmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_464Qj2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_464QkGqKEe2ar_e1TVpMSA" name="taxRate">
+        <modelElement href="FlooringMastery.uml#_4sDKMmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_464QkWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_464QkmqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_464Qk2qKEe2ar_e1TVpMSA" name="equals">
+      <modelElement href="FlooringMastery.uml#_4sDKNmqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_464QlGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sDKOWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_464QlWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sDxQGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_464QlmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_464Ql2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_464QmGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sDKOGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_464QmWqKEe2ar_e1TVpMSA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_464QmmqKEe2ar_e1TVpMSA" name="o">
+        <modelElement href="FlooringMastery.uml#_4sDKN2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_464Qm2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_464QnGqKEe2ar_e1TVpMSA" name="Object">
+          <modelElement href="FlooringMastery.uml#_4r8cgGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_47BaUGqKEe2ar_e1TVpMSA" name="Orders" associationsIn="_469I4GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_47BaUWqKEe2ar_e1TVpMSA" position="-1093.0,2885.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_47BaUmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_47BaU2qKEe2ar_e1TVpMSA" name="date">
+      <modelElement href="FlooringMastery.uml#_4scy0mqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BaVGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaVWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47BaVmqKEe2ar_e1TVpMSA" name="LocalDate">
+        <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BaV2qKEe2ar_e1TVpMSA" name="orderNumber">
+      <modelElement href="FlooringMastery.uml#_4seA8GqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_47BaWGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4seA8WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_47BaWWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaWmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47BaW2qKEe2ar_e1TVpMSA" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BaXGqKEe2ar_e1TVpMSA" name="customerName">
+      <modelElement href="FlooringMastery.uml#_4sfPE2qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BaXWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaXmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47BaX2qKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BaYGqKEe2ar_e1TVpMSA" name="state">
+      <modelElement href="FlooringMastery.uml#_4sf2IGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BaYWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaYmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47BaY2qKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BaZGqKEe2ar_e1TVpMSA" name="taxRate">
+      <modelElement href="FlooringMastery.uml#_4sf2IWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BaZWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaZmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47BaZ2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BaaGqKEe2ar_e1TVpMSA" name="productType">
+      <modelElement href="FlooringMastery.uml#_4sf2ImqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BaaWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaamqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Baa2qKEe2ar_e1TVpMSA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BabGqKEe2ar_e1TVpMSA" name="area">
+      <modelElement href="FlooringMastery.uml#_4sf2I2qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BabWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BabmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Bab2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BacGqKEe2ar_e1TVpMSA" name="costPerSquareFoot">
+      <modelElement href="FlooringMastery.uml#_4sf2JGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BacWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BacmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Bac2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BadGqKEe2ar_e1TVpMSA" name="laborCostPerSquareFoot">
+      <modelElement href="FlooringMastery.uml#_4sgdMGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BadWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BadmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Bad2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BaeGqKEe2ar_e1TVpMSA" name="materialCost">
+      <modelElement href="FlooringMastery.uml#_4sgdMWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BaeWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaemqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Bae2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BafGqKEe2ar_e1TVpMSA" name="laborCost">
+      <modelElement href="FlooringMastery.uml#_4sgdMmqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BafWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BafmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Baf2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BagGqKEe2ar_e1TVpMSA" name="tax">
+      <modelElement href="FlooringMastery.uml#_4sgdM2qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BagWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BagmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Bag2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_47BahGqKEe2ar_e1TVpMSA" name="total">
+      <modelElement href="FlooringMastery.uml#_4shEQGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47BahWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BahmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_47Bah2qKEe2ar_e1TVpMSA" name="BigDecimal">
+        <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_47BaiGqKEe2ar_e1TVpMSA" name="Orders">
+      <modelElement href="FlooringMastery.uml#_4ktzIGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_47BaiWqKEe2ar_e1TVpMSA" keyword="create"/>
+      <stereotypes xmi:id="_47BaimqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4kuaMmqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_47Bai2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BajGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_47BajWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4kuaM2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_47BajmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_47Baj2qKEe2ar_e1TVpMSA" name="hashCode">
+      <modelElement href="FlooringMastery.uml#_4kwPYGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_47BakGqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4kxdgGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_47BakWqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4kyEkGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_47BakmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47Bak2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_47BalGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4kw2cGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_47BalWqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_47BalmqKEe2ar_e1TVpMSA" name="toString">
+      <modelElement href="FlooringMastery.uml#_4kyEkmqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_47Bal2qKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4kzSsGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_47BamGqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4kzSsWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_47BamWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BammqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_47Bam2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4kyroGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_47BanGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_47BanWqKEe2ar_e1TVpMSA" name="Orders">
+      <modelElement href="FlooringMastery.uml#_4r6nUGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_47BanmqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_47Ban2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BaoGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_47BaoWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4r71dmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_47BaomqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_47Bao2qKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4r7OYGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BapGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BapWqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BapmqKEe2ar_e1TVpMSA" name="taxRate">
+        <modelElement href="FlooringMastery.uml#_4r7OYWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47Bap2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BaqGqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BaqWqKEe2ar_e1TVpMSA" name="productType">
+        <modelElement href="FlooringMastery.uml#_4r7OYmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BaqmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47Baq2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BarGqKEe2ar_e1TVpMSA" name="area">
+        <modelElement href="FlooringMastery.uml#_4r7OY2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BarWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BarmqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47Bar2qKEe2ar_e1TVpMSA" name="costPerSquareFoot">
+        <modelElement href="FlooringMastery.uml#_4r7OZGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BasGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BasWqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BasmqKEe2ar_e1TVpMSA" name="laborCostPerSquareFoot">
+        <modelElement href="FlooringMastery.uml#_4r7OZWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47Bas2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BatGqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BatWqKEe2ar_e1TVpMSA" name="materialCost">
+        <modelElement href="FlooringMastery.uml#_4r7OZmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BatmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47Bat2qKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BauGqKEe2ar_e1TVpMSA" name="laborCost">
+        <modelElement href="FlooringMastery.uml#_4r7OZ2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BauWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BaumqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47Bau2qKEe2ar_e1TVpMSA" name="tax">
+        <modelElement href="FlooringMastery.uml#_4r7OaGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BavGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BavWqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BavmqKEe2ar_e1TVpMSA" name="total">
+        <modelElement href="FlooringMastery.uml#_4r71cGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47Bav2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BawGqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BawWqKEe2ar_e1TVpMSA" name="orderNumber">
+        <modelElement href="FlooringMastery.uml#_4r71cWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BawmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47Baw2qKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47BaxGqKEe2ar_e1TVpMSA" name="customerName">
+        <modelElement href="FlooringMastery.uml#_4r71cmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BaxWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BaxmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_47Bax2qKEe2ar_e1TVpMSA" name="state">
+        <modelElement href="FlooringMastery.uml#_4r71c2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47BayGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47BayWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_47BaymqKEe2ar_e1TVpMSA" name="equals">
+      <modelElement href="FlooringMastery.uml#_4r9DkWqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_47Bay2qKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4r9qoWqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_47BazGqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4r-RsGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_47BazWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47BazmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_47Baz2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4r9qoGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_47Ba0GqKEe2ar_e1TVpMSA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_47Ba0WqKEe2ar_e1TVpMSA" name="o">
+        <modelElement href="FlooringMastery.uml#_4r9DkmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47Ba0mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47Ba02qKEe2ar_e1TVpMSA" name="Object">
+          <modelElement href="FlooringMastery.uml#_4r8cgGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_47OOoGqKEe2ar_e1TVpMSA" name="FlooringMasteryProductsDao" associationsIn="_46AtsGqKEe2ar_e1TVpMSA" subclassedBy="_46jgQGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4kPSAGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_47OOoWqKEe2ar_e1TVpMSA" position="1569.0,1013.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_47OOomqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_47OOo2qKEe2ar_e1TVpMSA" name="getProduct">
+      <modelElement href="FlooringMastery.uml#_4kQgIGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_47OOpGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_47OOpWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_47OOpmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4qu7kGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_47OOp2qKEe2ar_e1TVpMSA" name="Products">
+          <modelElement href="FlooringMastery.uml#_4k6ncGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_47OOqGqKEe2ar_e1TVpMSA" name="productType">
+        <modelElement href="FlooringMastery.uml#_4kQgIWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_47OOqWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_47OOqmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_478AUGqKEe2ar_e1TVpMSA" name="UserIOConsoleImp" associationsOut="_477ZQGqKEe2ar_e1TVpMSA" generalizations="_473H0GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4lt4sGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_478AUWqKEe2ar_e1TVpMSA" position="-3127.0,-46.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_478AUmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_478AU2qKEe2ar_e1TVpMSA" name="sc">
+      <modelElement href="FlooringMastery.uml#_4soZAmqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_l7rmAGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7uCQGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l77doGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <visibility xmi:id="_478AVWqKEe2ar_e1TVpMSA" label="~"/>
+      <cardinality xmi:id="_478AVmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_478AV2qKEe2ar_e1TVpMSA" name="Scanner">
+        <modelElement href="FlooringMastery.uml#_4qxX0WqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_478AWGqKEe2ar_e1TVpMSA" name="UserIOConsoleImp">
+      <modelElement href="FlooringMastery.uml#_4lvG0GqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_478AWWqKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_478AWmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AW2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478AXGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lvt4mqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AXWqKEe2ar_e1TVpMSA" name="UserIOConsoleImp">
+          <modelElement href="FlooringMastery.uml#_4lt4sGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_478AXmqKEe2ar_e1TVpMSA" name="print">
+      <modelElement href="FlooringMastery.uml#_4lvt42qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478AX2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AYGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_478AYWqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4lwU8GqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AYmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AY2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AZGqKEe2ar_e1TVpMSA" name="readString">
+      <modelElement href="FlooringMastery.uml#_4lwU8WqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478AZWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AZmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478AZ2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lwU82qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AaGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478AaWqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4lwU8mqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AamqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478Aa2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AbGqKEe2ar_e1TVpMSA" name="readInt">
+      <modelElement href="FlooringMastery.uml#_4lw8AGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478AbWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AbmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478Ab2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lw8AmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AcGqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478AcWqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4lw8AWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AcmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478Ac2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AdGqKEe2ar_e1TVpMSA" name="readInt">
+      <modelElement href="FlooringMastery.uml#_4lxjEGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478AdWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AdmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478Ad2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lxjFGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AeGqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478AeWqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4lxjEWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AemqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478Ae2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478AfGqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4lxjEmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AfWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AfmqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478Af2qKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4lxjE2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AgGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AgWqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AgmqKEe2ar_e1TVpMSA" name="readDouble">
+      <modelElement href="FlooringMastery.uml#_4lyKIGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478Ag2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AhGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478AhWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lyKImqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AhmqKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478Ah2qKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4lyKIWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AiGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AiWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AimqKEe2ar_e1TVpMSA" name="readDouble">
+      <modelElement href="FlooringMastery.uml#_4lyxMGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478Ai2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AjGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478AjWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lzYQmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AjmqKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478Aj2qKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4lyxMWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AkGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AkWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478AkmqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4lzYQGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478Ak2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AlGqKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478AlWqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4lzYQWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AlmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478Al2qKEe2ar_e1TVpMSA" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AmGqKEe2ar_e1TVpMSA" name="readFloat">
+      <modelElement href="FlooringMastery.uml#_4lz_UGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478AmWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AmmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478Am2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4lz_UmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AnGqKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478AnWqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4lz_UWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AnmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478An2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AoGqKEe2ar_e1TVpMSA" name="readFloat">
+      <modelElement href="FlooringMastery.uml#_4mD28GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478AoWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AomqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478Ao2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mEeA2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478ApGqKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478ApWqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4mEeAGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478ApmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478Ap2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478AqGqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4mEeAWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AqWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AqmqKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478Aq2qKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4mEeAmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478ArGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478ArWqKEe2ar_e1TVpMSA" name="float">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478ArmqKEe2ar_e1TVpMSA" name="readLong">
+      <modelElement href="FlooringMastery.uml#_4mFFEGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478Ar2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AsGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478AsWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mFsIWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AsmqKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478As2qKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4mFsIGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AtGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AtWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AtmqKEe2ar_e1TVpMSA" name="readLong">
+      <modelElement href="FlooringMastery.uml#_4mGTMGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_478At2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AuGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478AuWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mG6QGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AumqKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478Au2qKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4mGTMWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AvGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AvWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478AvmqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4mGTMmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478Av2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AwGqKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478AwWqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4mGTM2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AwmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478Aw2qKEe2ar_e1TVpMSA" name="long">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AxGqKEe2ar_e1TVpMSA" name="readBigDecimal">
+      <modelElement href="FlooringMastery.uml#_4mG6QWqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_478AxWqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4mHhUGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_478AxmqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4mIIYGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_478Ax2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478AyGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478AyWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sOwYGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478AymqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478Ay2qKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4mG6QmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478AzGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478AzWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478AzmqKEe2ar_e1TVpMSA" name="readDate">
+      <modelElement href="FlooringMastery.uml#_4mJWgGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_478Az2qKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4mJ9kGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_478A0GqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4mKkoGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_478A0WqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478A0mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478A02qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sQlkmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478A1GqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478A1WqKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4mJWgWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478A1mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478A12qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478A2GqKEe2ar_e1TVpMSA" name="readBigDecimal">
+      <modelElement href="FlooringMastery.uml#_4sPXcGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_478A2WqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sP-gGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_478A2mqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sQlkGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_478A22qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478A3GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478A3WqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sPXdGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478A3mqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478A32qKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4sPXcWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478A4GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478A4WqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478A4mqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4sPXcmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478A42qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478A5GqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478A5WqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4sPXc2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478A5mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478A52qKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478A6GqKEe2ar_e1TVpMSA" name="readDate">
+      <modelElement href="FlooringMastery.uml#_4sRMoGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_478A6WqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sRztGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_478A6mqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sSawGqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_478A62qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478A7GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478A7WqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sRzs2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478A7mqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478A72qKEe2ar_e1TVpMSA" name="prompt">
+        <modelElement href="FlooringMastery.uml#_4sRzsGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478A8GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478A8WqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478A8mqKEe2ar_e1TVpMSA" name="min">
+        <modelElement href="FlooringMastery.uml#_4sRzsWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478A82qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478A9GqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_478A9WqKEe2ar_e1TVpMSA" name="max">
+        <modelElement href="FlooringMastery.uml#_4sRzsmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478A9mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478A92qKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_478A-GqKEe2ar_e1TVpMSA" name="formatCurrency">
+      <modelElement href="FlooringMastery.uml#_4sTo4GqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_478A-WqKEe2ar_e1TVpMSA" name="LegacyStyledElement">
+        <modelElement href="FlooringMastery.uml#_4sUP8GqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_478A-mqKEe2ar_e1TVpMSA" name="Annotations">
+        <modelElement href="FlooringMastery.uml#_4sUP8WqKEe2ar_e1TVpMSA"/>
+      </stereotypes>
+      <visibility xmi:id="_478A-2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_478A_GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_478A_WqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sTo4mqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_478A_mqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_478A_2qKEe2ar_e1TVpMSA" name="amount">
+        <modelElement href="FlooringMastery.uml#_4sTo4WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_478BAGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_478BAWqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_48RXgGqKEe2ar_e1TVpMSA" name="FlooringMasteryView" associationsIn="_44qp4GqKEe2ar_e1TVpMSA" associationsOut="_45dUEGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4mPdIGqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_48RXgWqKEe2ar_e1TVpMSA" position="-2253.0,228.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_48RXgmqKEe2ar_e1TVpMSA" label="+"/>
+    <attributes xmi:id="_48RXg2qKEe2ar_e1TVpMSA" name="io">
+      <modelElement href="FlooringMastery.uml#_4spnIGqKEe2ar_e1TVpMSA"/>
+      <stereotypes xmi:id="_LtieIGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7Xc8GqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l7Z5MGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_l78EsGqLEe2ar_e1TVpMSA" name="LegacyStyledElement"/>
+      <visibility xmi:id="_48RXhGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_48RXhWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <type xmi:id="_48RXhmqKEe2ar_e1TVpMSA" name="UserIO">
+        <modelElement href="FlooringMastery.uml#_4jfrIGqKEe2ar_e1TVpMSA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_48RXh2qKEe2ar_e1TVpMSA" name="displayFlooringMasteryWelcome">
+      <modelElement href="FlooringMastery.uml#_4mQrQGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48RXiGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48RXiWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_48RXimqKEe2ar_e1TVpMSA" name="printMenuAndGetSelection">
+      <modelElement href="FlooringMastery.uml#_4mRSUGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48RXi2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48RXjGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48RXjWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mRSUWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48RXjmqKEe2ar_e1TVpMSA" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48RXj2qKEe2ar_e1TVpMSA" name="displayProductsHeader">
+      <modelElement href="FlooringMastery.uml#_4mR5YGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48RXkGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48RXkWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_48RXkmqKEe2ar_e1TVpMSA" name="promptUserInput">
+      <modelElement href="FlooringMastery.uml#_4mR5YWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48RXk2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48RXlGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48RXlWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sVeEGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48RXlmqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48RXl2qKEe2ar_e1TVpMSA" name="displayErrorMessage">
+      <modelElement href="FlooringMastery.uml#_4mSgcGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48RXmGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48RXmWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48RXmmqKEe2ar_e1TVpMSA" name="message">
+        <modelElement href="FlooringMastery.uml#_4mTHgGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48RXm2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48RXnGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R-kGqKEe2ar_e1TVpMSA" name="toExit">
+      <modelElement href="FlooringMastery.uml#_4mTHgWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-kWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-kmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-k2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mTHgmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-lGqKEe2ar_e1TVpMSA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-lWqKEe2ar_e1TVpMSA" name="displayFinalMessage">
+      <modelElement href="FlooringMastery.uml#_4mTukGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-lmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-l2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_48R-mGqKEe2ar_e1TVpMSA" name="inputDate">
+      <modelElement href="FlooringMastery.uml#_4mTukWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-mWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-mmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-m2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sVeEWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-nGqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-nWqKEe2ar_e1TVpMSA" name="displayContinue">
+      <modelElement href="FlooringMastery.uml#_4mUVoGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-nmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-n2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_48R-oGqKEe2ar_e1TVpMSA" name="getOrder">
+      <modelElement href="FlooringMastery.uml#_4mUVoWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-oWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-omqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-o2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rja8GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-pGqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-pWqKEe2ar_e1TVpMSA" name="inputArea">
+      <modelElement href="FlooringMastery.uml#_4mU8sGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-pmqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_48R-p2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-qGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sXTQGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-qWqKEe2ar_e1TVpMSA" name="BigDecimal">
+          <modelElement href="FlooringMastery.uml#_4qj8cWqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-qmqKEe2ar_e1TVpMSA" name="inputProductType">
+      <modelElement href="FlooringMastery.uml#_4mU8sWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-q2qKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_48R-rGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-rWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mVjwGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-rmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-r2qKEe2ar_e1TVpMSA" name="inputState">
+      <modelElement href="FlooringMastery.uml#_4mVjwWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-sGqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_48R-sWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-smqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mWK0GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-s2qKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-tGqKEe2ar_e1TVpMSA" name="inputCustomerName">
+      <modelElement href="FlooringMastery.uml#_4mWK0WqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-tWqKEe2ar_e1TVpMSA" label="-"/>
+      <cardinality xmi:id="_48R-tmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-t2qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mWx4GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-uGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-uWqKEe2ar_e1TVpMSA" name="askSave">
+      <modelElement href="FlooringMastery.uml#_4mXY8GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-umqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-u2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-vGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mYAAGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-vWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-vmqKEe2ar_e1TVpMSA" name="displayEditOrderBanner">
+      <modelElement href="FlooringMastery.uml#_4mYnEGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-v2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-wGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_48R-wWqKEe2ar_e1TVpMSA" name="inputOrderNumber">
+      <modelElement href="FlooringMastery.uml#_4mZOIGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-wmqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-w2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-xGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4mZOIWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-xWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-xmqKEe2ar_e1TVpMSA" name="displayRemoveOrderBanner">
+      <modelElement href="FlooringMastery.uml#_4mZ1MGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-x2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-yGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_48R-yWqKEe2ar_e1TVpMSA" name="askRemove">
+      <modelElement href="FlooringMastery.uml#_4macQGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-ymqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-y2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-zGqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4macQWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-zWqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_48R-zmqKEe2ar_e1TVpMSA" name="FlooringMasteryView">
+      <modelElement href="FlooringMastery.uml#_4rhlwGqKEe2ar_e1TVpMSA"/>
+      <keywords xmi:id="_48R-z2qKEe2ar_e1TVpMSA" keyword="create"/>
+      <visibility xmi:id="_48R-0GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-0WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-0mqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4riM02qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-02qKEe2ar_e1TVpMSA" name="FlooringMasteryView">
+          <modelElement href="FlooringMastery.uml#_4mPdIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48R-1GqKEe2ar_e1TVpMSA" name="io">
+        <modelElement href="FlooringMastery.uml#_4riM0GqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R-1WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R-1mqKEe2ar_e1TVpMSA" name="UserIO">
+          <modelElement href="FlooringMastery.uml#_4jfrIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R-12qKEe2ar_e1TVpMSA" name="displayProduct">
+      <modelElement href="FlooringMastery.uml#_4riM1GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-2GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-2WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48R-2mqKEe2ar_e1TVpMSA" name="product">
+        <modelElement href="FlooringMastery.uml#_4riM1WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R-22qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R-3GqKEe2ar_e1TVpMSA" name="Products">
+          <modelElement href="FlooringMastery.uml#_4k6ncGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R-3WqKEe2ar_e1TVpMSA" name="displayOrder">
+      <modelElement href="FlooringMastery.uml#_4riz4GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-3mqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-32qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48R-4GqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4riz4WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R-4WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R-4mqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R-42qKEe2ar_e1TVpMSA" name="displayAddOrderSuccess">
+      <modelElement href="FlooringMastery.uml#_4rja8WqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-5GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-5WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48R-5mqKEe2ar_e1TVpMSA" name="b">
+        <modelElement href="FlooringMastery.uml#_4rja8mqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R-52qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R-6GqKEe2ar_e1TVpMSA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_48R-6WqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rkCAGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R-6mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R-62qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R-7GqKEe2ar_e1TVpMSA" name="editOrderInfo">
+      <modelElement href="FlooringMastery.uml#_4rkCAWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-7WqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-7mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48R-72qKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rkCA2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48R-8GqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48R-8WqKEe2ar_e1TVpMSA" name="savedOrder">
+        <modelElement href="FlooringMastery.uml#_4rkCAmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R-8mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R-82qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R-9GqKEe2ar_e1TVpMSA" name="displayEditOrderSuccess">
+      <modelElement href="FlooringMastery.uml#_4rkCBGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-9WqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-9mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48R-92qKEe2ar_e1TVpMSA" name="b">
+        <modelElement href="FlooringMastery.uml#_4rkpEGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R--GqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R--WqKEe2ar_e1TVpMSA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_48R--mqKEe2ar_e1TVpMSA" name="updatedOrder">
+        <modelElement href="FlooringMastery.uml#_4rkpEWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R--2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R-_GqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R-_WqKEe2ar_e1TVpMSA" name="displayRemoveOrderSuccess">
+      <modelElement href="FlooringMastery.uml#_4rlQIGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R-_mqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R-_2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48R_AGqKEe2ar_e1TVpMSA" name="b">
+        <modelElement href="FlooringMastery.uml#_4rlQIWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R_AWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R_AmqKEe2ar_e1TVpMSA" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_48R_A2qKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rlQImqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R_BGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R_BWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R_BmqKEe2ar_e1TVpMSA" name="displayDateBanner">
+      <modelElement href="FlooringMastery.uml#_4sVeEmqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R_B2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R_CGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48R_CWqKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4sVeE2qKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R_CmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R_C2qKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48R_DGqKEe2ar_e1TVpMSA" name="displayDateOrders">
+      <modelElement href="FlooringMastery.uml#_4sWFIGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48R_DWqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48R_DmqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48R_D2qKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4sWFIWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48R_EGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48R_EWqKEe2ar_e1TVpMSA" name="List">
+          <modelElement href="FlooringMastery.uml#_4qo08WqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_48qZEGqKEe2ar_e1TVpMSA" name="FlooringMasteryTaxDao" associationsIn="_46B70GqKEe2ar_e1TVpMSA" subclassedBy="_48oj4GqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4khl4GqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_48qZEWqKEe2ar_e1TVpMSA" position="874.0,1522.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_48qZEmqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_48qZE2qKEe2ar_e1TVpMSA" name="getTax">
+      <modelElement href="FlooringMastery.uml#_4ki0AGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48qZFGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48qZFWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48qZFmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4q5ToGqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48qZF2qKEe2ar_e1TVpMSA" name="Tax">
+          <modelElement href="FlooringMastery.uml#_4lBVIGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48qZGGqKEe2ar_e1TVpMSA" name="state">
+        <modelElement href="FlooringMastery.uml#_4ki0AWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48qZGWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48qZGmqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_48wfsGqKEe2ar_e1TVpMSA" name="FlooringMasteryOrderDao" associationsIn="_45_fkGqKEe2ar_e1TVpMSA" subclassedBy="_48tcYGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4kDr0GqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_48wfsWqKEe2ar_e1TVpMSA" position="-386.0,534.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_48wfsmqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_48wfs2qKEe2ar_e1TVpMSA" name="addOrder">
+      <modelElement href="FlooringMastery.uml#_4qqqIGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48wftGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48wftWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48wftmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4qqqImqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48wft2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48wfuGqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4qqqIWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48wfuWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48wfumqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48wfu2qKEe2ar_e1TVpMSA" name="removeOrder">
+      <modelElement href="FlooringMastery.uml#_4qtGYGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48wfvGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48wfvWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48wfvmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4qtGYmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48wfv2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48wfwGqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4qtGYWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48wfwWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48wfwmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48wfw2qKEe2ar_e1TVpMSA" name="editOrder">
+      <modelElement href="FlooringMastery.uml#_4qtGY2qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48wfxGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48wfxWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_48wfxmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4qtGZWqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48wfx2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48wfyGqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4qtGZGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48wfyWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48wfymqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48wfy2qKEe2ar_e1TVpMSA" name="getAllOrders">
+      <modelElement href="FlooringMastery.uml#_4r0gsWqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48wfzGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48wfzWqKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_48wfzmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4r0gs2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48wfz2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48wf0GqKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4r0gsmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48wf0WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48wf0mqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48wf02qKEe2ar_e1TVpMSA" name="loadOrdersFromFile">
+      <modelElement href="FlooringMastery.uml#_4r1u0GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48wf1GqKEe2ar_e1TVpMSA" label="~"/>
+      <cardinality xmi:id="_48wf1WqKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_48wf1mqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4r1u0mqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_48wf12qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_48wf2GqKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4r1u0WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48wf2WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48wf2mqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_48wf22qKEe2ar_e1TVpMSA" name="writeOrdersToFile">
+      <modelElement href="FlooringMastery.uml#_4r2V4GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_48wf3GqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_48wf3WqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <parameters xmi:id="_48wf3mqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4r2V4WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48wf32qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48wf4GqKEe2ar_e1TVpMSA" name="List">
+          <modelElement href="FlooringMastery.uml#_4qo08WqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_48wf4WqKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4r2V4mqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_48wf4mqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_48wf42qKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_4830cGqKEe2ar_e1TVpMSA" name="FlooringMasteryService" associationsIn="_44r4AGqKEe2ar_e1TVpMSA" subclassedBy="_451HgGqKEe2ar_e1TVpMSA">
+    <modelElement href="FlooringMastery.uml#_4lIp4GqKEe2ar_e1TVpMSA"/>
+    <visualProperties xmi:id="_4830cWqKEe2ar_e1TVpMSA" position="127.0,789.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_4830cmqKEe2ar_e1TVpMSA" label="+"/>
+    <operations xmi:id="_4830c2qKEe2ar_e1TVpMSA" name="calculateOrders">
+      <modelElement href="FlooringMastery.uml#_4rE50GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_4830dGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4830dWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_4830dmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rFg4GqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4830d2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4830eGqKEe2ar_e1TVpMSA" name="orders">
+        <modelElement href="FlooringMastery.uml#_4rE50WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830eWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830emqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_4830e2qKEe2ar_e1TVpMSA" name="addOrder">
+      <modelElement href="FlooringMastery.uml#_4rGH8GqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_4830fGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4830fWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_4830fmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rGH8mqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4830f2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4830gGqKEe2ar_e1TVpMSA" name="order">
+        <modelElement href="FlooringMastery.uml#_4rGH8WqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830gWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830gmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_4830g2qKEe2ar_e1TVpMSA" name="compareOrders">
+      <modelElement href="FlooringMastery.uml#_4rGH82qKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_4830hGqKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4830hWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_4830hmqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rGvAmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4830h2qKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4830iGqKEe2ar_e1TVpMSA" name="savedOrder">
+        <modelElement href="FlooringMastery.uml#_4rGvAGqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830iWqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830imqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_4830i2qKEe2ar_e1TVpMSA" name="editedOrder">
+        <modelElement href="FlooringMastery.uml#_4rGvAWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830jGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830jWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_4830jmqKEe2ar_e1TVpMSA" name="editOrder">
+      <modelElement href="FlooringMastery.uml#_4rHWEGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_4830j2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4830kGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_4830kWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rHWEmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4830kmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4830k2qKEe2ar_e1TVpMSA" name="updatedOrder">
+        <modelElement href="FlooringMastery.uml#_4rHWEWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830lGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830lWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_4830lmqKEe2ar_e1TVpMSA" name="removeOrder">
+      <modelElement href="FlooringMastery.uml#_4rH9IGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_4830l2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4830mGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_4830mWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4rH9ImqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4830mmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4830m2qKEe2ar_e1TVpMSA" name="removedOrder">
+        <modelElement href="FlooringMastery.uml#_4rH9IWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830nGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830nWqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_4830nmqKEe2ar_e1TVpMSA" name="getOrders">
+      <modelElement href="FlooringMastery.uml#_4sEYUGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_4830n2qKEe2ar_e1TVpMSA" label="~"/>
+      <cardinality xmi:id="_4830oGqKEe2ar_e1TVpMSA" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_4830oWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sEYUmqKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4830omqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4830o2qKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4sEYUWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830pGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830pWqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_4830pmqKEe2ar_e1TVpMSA" name="getOrder">
+      <modelElement href="FlooringMastery.uml#_4sFmcGqKEe2ar_e1TVpMSA"/>
+      <visibility xmi:id="_4830p2qKEe2ar_e1TVpMSA" label="+"/>
+      <cardinality xmi:id="_4830qGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_4830qWqKEe2ar_e1TVpMSA">
+        <modelElement href="FlooringMastery.uml#_4sFmc2qKEe2ar_e1TVpMSA"/>
+        <type xmi:id="_4830qmqKEe2ar_e1TVpMSA" name="Orders">
+          <modelElement href="FlooringMastery.uml#_4kr98GqKEe2ar_e1TVpMSA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_4830q2qKEe2ar_e1TVpMSA" name="date">
+        <modelElement href="FlooringMastery.uml#_4sFmcWqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830rGqKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830rWqKEe2ar_e1TVpMSA" name="LocalDate">
+          <modelElement href="FlooringMastery.uml#_4qlKkGqKEe2ar_e1TVpMSA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_4830rmqKEe2ar_e1TVpMSA" name="orderNumber">
+        <modelElement href="FlooringMastery.uml#_4sFmcmqKEe2ar_e1TVpMSA"/>
+        <cardinality xmi:id="_4830r2qKEe2ar_e1TVpMSA" label="1" max="1" min="1"/>
+        <type xmi:id="_4830sGqKEe2ar_e1TVpMSA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
